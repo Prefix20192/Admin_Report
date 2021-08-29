@@ -1,4 +1,4 @@
-# __Модуль для GameCMS__
+# __[CSSv34] Admin Report__
 
 ![MySenPai](https://pa1.narvii.com/6862/6098ddd3be86e6253a9a2174796bf3fba9c06867r1-500-260_hq.gif)
 
